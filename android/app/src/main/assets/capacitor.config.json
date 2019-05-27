@@ -1,0 +1,7 @@
+{
+  "appId": "com.TheAccommodationBooking.ionic",
+  "appName": "TheAccommodationBooking",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
